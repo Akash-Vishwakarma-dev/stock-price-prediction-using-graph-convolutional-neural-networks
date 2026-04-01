@@ -1,5 +1,3 @@
-By Sayed Ahmed
-
 # stock-price-prediction-using-graph-convolutional-neural-networks
 
 1. Steps to execute the project
@@ -40,9 +38,6 @@ On another note, for each model i.e.style of prediction I will create one file a
 --- I wrote this code to find stock tickers in financial news articles. Then creates weighted graphs based on how those stcoks are related/mentioned together.
 Later I took this code to integrate into **yfinance_find-stock-tickers-in-news-articles-create-graph-predict-with-gcn.ipynb** which will eventually be integrated into 
 **simplest_model_gcn_mlp_only-stock-prediction-cleaned.ipynb**
-
-
-Note: My Explanation of the code can be see on: https://www.youtube.com/playlist?list=PLUA7SYgJYDFoAmJSyCXtKwA1uw2ErFgEo
 
 **3. Data Files**
 -- Data files are kept in the data folder. The code usually loaded data in the beginning of the code.
